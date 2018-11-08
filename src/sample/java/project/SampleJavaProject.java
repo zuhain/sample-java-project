@@ -10,7 +10,8 @@ import lombok.NonNull;
 import lombok.Setter;
 
 /**
-* added comment for git pull 
+* added comment for git pull
+* added comment for git push
  * The main class of the application. It contains the main() method,
  * the first method called.
  */
